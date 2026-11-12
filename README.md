@@ -5,8 +5,3 @@ I am a 2nd year College Student.
 Basic HTML and CSS
 JavaScript Programming
 C++ programming
-
-## My Goals
-
-To improve my programming skills
-
